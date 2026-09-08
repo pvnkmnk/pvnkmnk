@@ -5,6 +5,8 @@ Newmarket, Ontario, Canada
 
 > *Privacy-first. Locally-owned. Dual power where possible.*
 
+[![Now playing on spotatui](https://spotatui.com/widget/pvnkmnk.svg)](https://spotatui.com)
+
 ---
 
 ## Active Projects
@@ -13,11 +15,6 @@ Newmarket, Ontario, Canada
 |---|---|---|
 | [rentFalcon](https://github.com/pvnkmnk/rentFalcon) | Housing access tool (York Region, ON) | Python · Flask · Selenium · BeautifulSoup |
 | [djinn-netrunner](https://github.com/pvnkmnk/djinn-netrunner) | Music acquisition pipeline | Go · SQLite · Fiber · HTMX |
-| [CaterKingOperations](https://github.com/pvnkmnk/CaterKingOperations) | Catering business ops | Expo · Supabase · Drizzle · NativeWind |
-| [music-library-manager](https://github.com/pvnkmnk/music-library-manager) | Music library organization | Python · Docker · conductor/ |
-| [Homelab-Agents](https://github.com/pvnkmnk/Homelab-Agents) | Self-hosted AI agent crew | Docker Agent v3 · LlamaIndex · Ollama |
-| [proxmox-nullclaw-media-server](https://github.com/pvnkmnk/proxmox-nullclaw-media-server) | Personal media server | Proxmox · Alpine LXC · NullClaw (Zig) |
-
 ---
 
 ## This Repository
